@@ -4,8 +4,12 @@ import os
 import assemblyai as aai
 
 # Set your API key
-aai.settings.api_key = "722c257d012049b2b2b78db2354d8346"
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
+api_key = os.getenv("ASSEMBLYAI_API_KEY")
+aai.settings.api_key = api_key
 # Transcribe and save to file with speaker label mapping to User1, User2, etc.
 def transcribe_and_save(file_path, output_folder):
     config = aai.TranscriptionConfig(speaker_labels=True)

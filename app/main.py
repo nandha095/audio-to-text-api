@@ -3,6 +3,7 @@
 from fastapi import FastAPI
 from app.transcriber import transcribe_all_files
 
+
 app = FastAPI()
 
 @app.post("/transcribe/")
