@@ -1,8 +1,5 @@
 fastapi
 uvicorn
-openai-whisper
-pydantic
-python-multipart
-aiofiles
 requests
-
+assemblyai
+python-dotenv

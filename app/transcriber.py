@@ -1,25 +1,14 @@
-# app/transcriber.py
+# 
+# transcriber.py
 
 import os
-import whisper
+from app.assemblyai_transcriber import transcribe_and_save
 
-AUDIO_DIR = "recordings"
-TEXT_DIR = "transcripts"
-
-model = whisper.load_model("base")  # or medium/large if you prefer
-
-def transcribe_all_files():
-    if not os.path.exists(TEXT_DIR):
-        os.makedirs(TEXT_DIR)
-
-    transcripts = []
-    for filename in os.listdir(AUDIO_DIR):
-        if filename.endswith((".mp3", ".wav", ".m4a")):
-            filepath = os.path.join(AUDIO_DIR, filename)
-            print(f"Transcribing {filename}...")
-            result = model.transcribe(filepath)
-            text_path = os.path.join(TEXT_DIR, filename + ".txt")
-            with open(text_path, "w", encoding="utf-8") as f:
-                f.write(result["text"])
-            transcripts.append(text_path)
-    return transcripts
+def transcribe_all_files(input_folder="recordings", output_folder="transcripts"):
+    transcribed_files = []
+    for filename in os.listdir(input_folder):
+        if filename.endswith(".mp3"):
+            full_path = os.path.join(input_folder, filename)
+            transcript_path = transcribe_and_save(full_path, output_folder)
+            transcribed_files.append(transcript_path)
+    return transcribed_files

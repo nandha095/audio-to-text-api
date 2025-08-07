@@ -1,0 +1,19 @@
+User1: Hello?
+User2: Hello?
+User1: Hello? Yeah, hello.
+User2: Is it good time for the configuration? Yeah, we have got a mail from your idea solutions. Hello?
+User1: Yeah, yeah, yeah, I got it, I got it.
+User2: Yeah, for reconfiguration. Yes. Yeah, is a good time for configuration that number in your device.
+User1: Okay, can you just call me after in half an hour?
+User2: Yeah, sure.
+User1: I'm going to the place where there is a good network. So it just takes half an hour for me. That's what I'm saying.
+User2: Okay. In which device you want to configure in your laptop?
+User1: Which device in my laptop and phone. Both the. Please.
+User2: Okay, sure. Just one minute.
+User1: Just give me. Yeah.
+User2: We can only configure it in one device because your account is in postpaid only in one.
+User1: So you can do it on. It's okay to do it on my laptop?
+User2: Yeah, sure. You can call me back at your time. Okay.
+User1: Okay. This is right that I have to call on.
+User2: Yes, this is the number.
+User1: Okay. Okay, sure.

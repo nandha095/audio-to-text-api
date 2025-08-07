@@ -1,0 +1,20 @@
+User1: Tell me.
+User2: Hello?
+User1: Yeah, Are you able to hear me?
+User2: Yeah, you are audible. Can I access your any desk?
+User1: Yes, you can. Just a minute.
+User2: Yeah, it.
+User1: Yeah, can I tell you?
+User2: Yeah, sure.
+User1: It's 1928-1928-6969-3425.
+User2: Okay, I have sent you a request. Can you accept it?
+User1: Okay.
+User2: Hello. Hello.
+User1: Password, right?
+User2: No, not password. It's not connected. It's not connected yet. You have to accept that request.
+User1: I have accepted already.
+User2: Okay, I didn't get that yet.
+User1: Okay, just a minute. I think I need to talk to my IT person. He has to enter a password here, that's why. Okay, just give me two minutes. I'll make a call to you. Is it fine?
+User2: Yeah, the other number I have called you just before and I will call you with this number. Okay?
+User1: Okay. Okay. Yeah, just. Just two minutes. Okay, I'll just talk to my IT person.
+User2: Yeah, sure.
