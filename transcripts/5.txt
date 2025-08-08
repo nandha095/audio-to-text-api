@@ -1,3 +1,4 @@
+=== CONVERSATION ===
 User1: Tell me.
 User2: Hello?
 User1: Yeah, Are you able to hear me?
@@ -18,3 +19,32 @@ User1: Okay, just a minute. I think I need to talk to my IT person. He has to en
 User2: Yeah, the other number I have called you just before and I will call you with this number. Okay?
 User1: Okay. Okay. Yeah, just. Just two minutes. Okay, I'll just talk to my IT person.
 User2: Yeah, sure.
+
+=== INSIGHTS ===
+SUMMARY:
+- User1 needs to talk to IT to proceed, due to a password requirement.
+- User1 will call User2 back in two minutes.
+- User2 agreed to call back using the same number.
+
+FINAL_DECISIONS:
+- User1 agreed to reconnect after resolving the IT issue.
+- User2 agreed to wait and call back later.
+
+ACTION_ITEMS:
+
+OBSTACLES:
+- User1 is blocked by a password that IT must enter.
+- User2 reported that the connection is not working yet.
+
+AGREEMENTS:
+
+FOLLOW_UP_PLANS:
+
+TIME_MENTIONS:
+
+REQUESTS:
+
+ISSUES_DETECTED:
+
+THIRD_PARTY_MENTIONS:
+

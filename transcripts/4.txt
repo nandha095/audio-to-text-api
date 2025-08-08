@@ -1,3 +1,4 @@
+=== CONVERSATION ===
 User1: Yeah, Hello?
 User2: Yeah. Hello? Hello? Yeah, sure.
 User1: Yeah. Are you able me. Yeah, yeah, you can send your request now.
@@ -8,7 +9,7 @@ User1: Thank you. Is it like I have to open my working browser? No, right?
 User2: No, no, no, I don't. I only need a browser.
 User1: I think yesterday my IT person had downloaded it.
 User2: In your.
-User1: Yeah, if you can check with the pulling. Download this which.
+User1: Yeah. If you can check with the pulling. Download this which.
 User2: Can I open the file this way? Can I open this?
 User1: Which one?
 User2: Can I. Yeah.
@@ -44,3 +45,32 @@ User1: Okay, I'll do that.
 User2: Yeah, sure. Then I'm disconnecting this. Any desk. Okay.
 User1: Okay. Thank you so much.
 User2: Thank you.
+
+=== INSIGHTS ===
+SUMMARY:
+- User1 needs to talk to IT to proceed, due to a password requirement.
+- User1 will call User2 back in two minutes.
+- User2 agreed to call back using the same number.
+
+FINAL_DECISIONS:
+- User1 agreed to reconnect after resolving the IT issue.
+- User2 agreed to wait and call back later.
+
+ACTION_ITEMS:
+
+OBSTACLES:
+- User1 is blocked by a password that IT must enter.
+- User2 reported that the connection is not working yet.
+
+AGREEMENTS:
+
+FOLLOW_UP_PLANS:
+
+TIME_MENTIONS:
+
+REQUESTS:
+
+ISSUES_DETECTED:
+
+THIRD_PARTY_MENTIONS:
+
