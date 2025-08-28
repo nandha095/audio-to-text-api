@@ -11,7 +11,11 @@ aai.settings.api_key = api_key
 
 # Transcribe and save to file with speaker label mapping to User1, User2, etc.
 def transcribe_and_save(file_path, output_folder):
-    config = aai.TranscriptionConfig(speaker_labels=True)
+    # config = aai.TranscriptionConfig(speaker_labels=True,language_detection=True, translation=True)
+    config = aai.TranscriptionConfig(
+    speaker_labels=True,
+    language_detection=True
+    )
     transcriber = aai.Transcriber()
 
     try:
@@ -40,7 +44,7 @@ def transcribe_and_save(file_path, output_folder):
     conversation_text = "\n".join(output_lines)
 
     # Analyze the transcript to get insights
-    insights = analyze_transcript(conversation_text)
+    insights = analyze_transcript(conversation_text.splitlines())
 
     # Prepare the combined text (conversation + insights)
     combined_text = f"=== CONVERSATION ===\n{conversation_text}\n\n=== INSIGHTS ===\n"

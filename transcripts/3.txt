@@ -21,27 +21,37 @@ User1: Okay. Okay, sure.
 
 === INSIGHTS ===
 SUMMARY:
-- User1 needs to talk to IT to proceed, due to a password requirement.
-- User1 will call User2 back in two minutes.
-- User2 agreed to call back using the same number.
+- The conversation is about setting up and testing calls.
+- User1 confirmed they will follow instructions.
 
 FINAL_DECISIONS:
-- User1 agreed to reconnect after resolving the IT issue.
-- User2 agreed to wait and call back later.
 
 ACTION_ITEMS:
 
 OBSTACLES:
-- User1 is blocked by a password that IT must enter.
-- User2 reported that the connection is not working yet.
 
 AGREEMENTS:
+- User1: Hello? Yeah, hello.
+- User2: Is it good time for the configuration? Yeah, we have got a mail from your idea solutions. Hello?
+- User1: Yeah, yeah, yeah, I got it, I got it.
+- User2: Yeah, for reconfiguration. Yes. Yeah, is a good time for configuration that number in your device.
+- User1: Okay, can you just call me after in half an hour?
+- User2: Yeah, sure.
+- User2: Okay. In which device you want to configure in your laptop?
+- User2: Okay, sure. Just one minute.
+- User1: Just give me. Yeah.
+- User1: So you can do it on. It's okay to do it on my laptop?
+- User2: Yeah, sure. You can call me back at your time. Okay.
+- User1: Okay. This is right that I have to call on.
+- User1: Okay. Okay, sure.
 
 FOLLOW_UP_PLANS:
 
 TIME_MENTIONS:
 
 REQUESTS:
+- User1: Okay, can you just call me after in half an hour?
+- User1: Which device in my laptop and phone. Both the. Please.
 
 ISSUES_DETECTED:
 

@@ -1,19 +1,9 @@
 # transcriber.py
-
 import os
 from app.assemblyai_transcriber import transcribe_and_save
 
-
-def save_combined_transcript(conversation_text, insights_text, output_path):
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write("=== CONVERSATION ===\n\n")
-        f.write(conversation_text.strip())
-        f.write("\n\n=== INSIGHTS ===\n\n")
-        f.write(insights_text.strip())
-
-def transcribe_all_files(input_folder="recordings", output_folder="transcripts"):
+def transcribe_unconverted_files(input_folder="recordings", output_folder="transcripts"):
     os.makedirs(output_folder, exist_ok=True)
-
     transcribed_files = []
 
     if not os.path.exists(input_folder):
@@ -21,8 +11,14 @@ def transcribe_all_files(input_folder="recordings", output_folder="transcripts")
 
     for filename in os.listdir(input_folder):
         if filename.lower().endswith(".mp3"):
-            full_path = os.path.join(input_folder, filename)
+            base_name = os.path.splitext(filename)[0]
+            transcript_file = os.path.join(output_folder, f"{base_name}.txt")
 
+            # ✅ Check if transcript already exists
+            if os.path.exists(transcript_file):
+                continue  
+
+            full_path = os.path.join(input_folder, filename)
             try:
                 transcript_path = transcribe_and_save(full_path, output_folder)
                 transcribed_files.append(transcript_path)

@@ -9,7 +9,7 @@ User1: Thank you. Is it like I have to open my working browser? No, right?
 User2: No, no, no, I don't. I only need a browser.
 User1: I think yesterday my IT person had downloaded it.
 User2: In your.
-User1: Yeah. If you can check with the pulling. Download this which.
+User1: Yeah, if you can check with the pulling. Download this which.
 User2: Can I open the file this way? Can I open this?
 User1: Which one?
 User2: Can I. Yeah.
@@ -75,7 +75,7 @@ AGREEMENTS:
 - User1: Yeah. Are you able me. Yeah, yeah, you can send your request now.
 - User2: I have sent you the request. Yeah, yeah. Okay. Yeah, now I got it. Can you open any browser?
 - User1: Thank you. Is it like I have to open my working browser? No, right?
-- User1: Yeah. If you can check with the pulling. Download this which.
+- User1: Yeah, if you can check with the pulling. Download this which.
 - User2: Can I. Yeah.
 - User2: Yeah, it's not. I. I contacted. I have get a call yesterday not from this number, another number and I installed this application in his desktop. I don't know which was his name, what was his name but it's not a lady, it was a guy.
 - User1: Okay. Was it name was Anil.

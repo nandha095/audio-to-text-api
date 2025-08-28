@@ -22,29 +22,51 @@ User2: Yeah, sure.
 
 === INSIGHTS ===
 SUMMARY:
-- User1 needs to talk to IT to proceed, due to a password requirement.
-- User1 will call User2 back in two minutes.
-- User2 agreed to call back using the same number.
+- The conversation is about setting up and testing calls.
+- User1 confirmed they will follow instructions.
 
 FINAL_DECISIONS:
-- User1 agreed to reconnect after resolving the IT issue.
-- User2 agreed to wait and call back later.
+- User1: Okay, just a minute. I think I need to talk to my IT person. He has to enter a password here, that's why. Okay, just give me two minutes. I'll make a call to you. Is it fine?
+- User2: Yeah, the other number I have called you just before and I will call you with this number. Okay?
+- User1: Okay. Okay. Yeah, just. Just two minutes. Okay, I'll just talk to my IT person.
 
 ACTION_ITEMS:
+- User1: Okay, just a minute. I think I need to talk to my IT person. He has to enter a password here, that's why. Okay, just give me two minutes. I'll make a call to you. Is it fine?
+- User2: Yeah, the other number I have called you just before and I will call you with this number. Okay?
+- User1: Okay. Okay. Yeah, just. Just two minutes. Okay, I'll just talk to my IT person.
 
 OBSTACLES:
-- User1 is blocked by a password that IT must enter.
-- User2 reported that the connection is not working yet.
+- User2: No, not password. It's not connected. It's not connected yet. You have to accept that request.
 
 AGREEMENTS:
+- User1: Yeah, Are you able to hear me?
+- User2: Yeah, you are audible. Can I access your any desk?
+- User2: Yeah, it.
+- User1: Yeah, can I tell you?
+- User2: Yeah, sure.
+- User2: Okay, I have sent you a request. Can you accept it?
+- User1: Okay.
+- User2: Okay, I didn't get that yet.
+- User1: Okay, just a minute. I think I need to talk to my IT person. He has to enter a password here, that's why. Okay, just give me two minutes. I'll make a call to you. Is it fine?
+- User2: Yeah, the other number I have called you just before and I will call you with this number. Okay?
+- User1: Okay. Okay. Yeah, just. Just two minutes. Okay, I'll just talk to my IT person.
+- User2: Yeah, sure.
 
 FOLLOW_UP_PLANS:
+- User1: Okay, just a minute. I think I need to talk to my IT person. He has to enter a password here, that's why. Okay, just give me two minutes. I'll make a call to you. Is it fine?
+- User2: Yeah, the other number I have called you just before and I will call you with this number. Okay?
+- User1: Okay. Okay. Yeah, just. Just two minutes. Okay, I'll just talk to my IT person.
 
 TIME_MENTIONS:
 
 REQUESTS:
+- User2: Okay, I have sent you a request. Can you accept it?
+- User1: Okay, just a minute. I think I need to talk to my IT person. He has to enter a password here, that's why. Okay, just give me two minutes. I'll make a call to you. Is it fine?
 
 ISSUES_DETECTED:
+- User2: No, not password. It's not connected. It's not connected yet. You have to accept that request.
 
 THIRD_PARTY_MENTIONS:
+- User1: Okay, just a minute. I think I need to talk to my IT person. He has to enter a password here, that's why. Okay, just give me two minutes. I'll make a call to you. Is it fine?
+- User1: Okay. Okay. Yeah, just. Just two minutes. Okay, I'll just talk to my IT person.
 

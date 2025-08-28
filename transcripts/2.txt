@@ -1,0 +1,27 @@
+=== CONVERSATION ===
+User1: Hello? Hello, can you hear me? Hello? Let me call you.
+
+=== INSIGHTS ===
+SUMMARY:
+- The conversation is about setting up and testing calls.
+
+FINAL_DECISIONS:
+
+ACTION_ITEMS:
+
+OBSTACLES:
+
+AGREEMENTS:
+
+FOLLOW_UP_PLANS:
+- User1: Hello? Hello, can you hear me? Hello? Let me call you.
+
+TIME_MENTIONS:
+
+REQUESTS:
+- User1: Hello? Hello, can you hear me? Hello? Let me call you.
+
+ISSUES_DETECTED:
+
+THIRD_PARTY_MENTIONS:
+
